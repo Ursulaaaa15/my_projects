@@ -1,0 +1,76 @@
+5
+Axenova
+5505055
+Putin
+6666666
+Lobkov
+1223345
+Sidorov
+9012329
+Smirnov
+4673561
+4
+Axenova
+1984
+George Orwell
+Modern classics
+5505055
+1986
+543
+20 4 2020
+20 4 2022
+Sidorov
+Idiot
+Dostoevsky 
+Modern classics
+9012329
+1964
+250
+15 2 2019
+15 6 2020
+Putin
+Monday begins on Saturday
+The Strugatsky Brothers
+Lib.24
+6666666
+1980
+312
+6 6 2006
+6 6 2016
+Lobkov
+DATA
+kek
+GG
+1223345
+2020
+250
+4 4 2023
+3 5 2024
+5
+20,000 Leagues Under the Sea
+Jules Verne
+book24
+1869
+455
+451 degrees Fahrenheit
+Ray Bradbury
+Modern classics
+1953
+329
+Avtomat
+Nastya
+laba 3
+2023
+1
+Fan
+Anne Jane
+book24
+2019
+699
+Summer in a Pioneer Tie
+Elena Malisova
+Lib.24
+2016
+790
+The subscriber picked up a book with a title: Avtomat
+The subscriber returned the book with the title: Avtomat
